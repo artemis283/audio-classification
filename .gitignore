@@ -1,0 +1,5 @@
+.venv/
+audio_conv_model.pth
+__pycache__/
+sound_datasets/
+.DS_Store
